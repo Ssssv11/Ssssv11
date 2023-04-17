@@ -17,7 +17,7 @@ Welcome ! I am Ssssv and I am currently working in a Tech company in Chengdu.
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - Improving coding ability from practice with the help of my tutor
-- Learning Swift & OC to start IOS developing
+- Learning Swift & OC to start IOS development
  
 #### :computer: Programming languages and tools: 
 <p>
