@@ -10,13 +10,13 @@ Welcome ! I am Ssssv and I am currently working in a Tech company in Chengdu.
  
  
 #### 🌱 Things I am currently working on: 
-- Working practices in an Internet company in Chengdu 🚀 
+- Working practices in an NLP&LLM company in Chengdu 🚀 
  
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving coding ability from practice with the help of my tutor
+- Improving coding ability from practice
 - Learning Swift & OC to start IOS development
  
 #### :computer: Programming languages and tools: 
